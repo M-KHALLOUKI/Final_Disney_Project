@@ -1,6 +1,6 @@
 #  DisneyCharacter
 
-Projet de programmation mobile 3A sous Android Studio (Kotclin)
+Projet de programmation mobile 3A sous Android Studio (Kotlin)
 
 ## Description de l'application
 
